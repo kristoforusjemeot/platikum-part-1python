@@ -5,3 +5,6 @@ elif (a<5):
     print("nilai a lebih kecil dari 5")
 else:
     print("nilai a adalah 5")
+
+else:
+    print("12456")
